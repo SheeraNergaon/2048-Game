@@ -1,0 +1,4 @@
+﻿  board.c
+C:\Users\P0035777\source\repos\2048\board.c(46,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\P0035777\source\repos\2048\board.c(67,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  2048.vcxproj -> C:\Users\P0035777\source\repos\2048\x64\Debug\2048.exe
